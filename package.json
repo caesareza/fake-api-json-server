@@ -1,0 +1,17 @@
+{
+  "name": "fake-api-json-server",
+  "version": "1.0.0",
+  "description": "fake-api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fake-api"
+  ],
+  "author": "rezaola",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
